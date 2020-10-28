@@ -26,8 +26,7 @@ projects:
     archived: false
     forks: true
     projects:
-     - copy_chroot_libs
-     - shell-tips
+   # projects to exclude should be here
 
 # social_media:
   # behance: your_username
