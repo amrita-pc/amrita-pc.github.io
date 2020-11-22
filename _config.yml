@@ -54,6 +54,6 @@ topics:
   - name: Security 
     web_url: https://github.com/topics/security
     
-  - name: AWS
+  - name: AWS 
     web_url: https://github.com/topics/aws
     image_url: https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png
