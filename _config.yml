@@ -1,13 +1,13 @@
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "default" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amrita Mitra"
+title                    : "/home/amrita"
 title_separator          : "-"
-subtitle                 : Personal Projects & Blog
-name                     : "Amrita Mitra"
+subtitle                 : "repository for my personal notes" 
+name                     : "Amrita"
 description              : >-
   Description
 url                      : "https://amrita-pc.github.io"
@@ -84,11 +84,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amrita Mitra"
-  avatar           : "/assets/images/cartoon-avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Amrita"
+#  avatar           : "/assets/images/cartoon-avatar.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : >-
-    Hello and welcome.
-  location         : "Australia"
+    Cloud Network Engineer
+  location         : "Sydney, Australia"
   email            :
   links:
     # - label: "Email"
@@ -103,9 +103,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/amrita-pc"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/amrita-mitra/"
+    - label: "LinkedIn (中文)"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/amrita-mitra/?locale=zh_CN"
 
 # Site Footer
 footer:
@@ -266,3 +269,4 @@ defaults:
       share: true
       related: false
       show_date: true
+

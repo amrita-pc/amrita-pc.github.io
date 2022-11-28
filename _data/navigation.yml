@@ -1,0 +1,17 @@
+# main links
+main:
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Tags"
+    url: /tags/
+    #  - title: "About"
+    #    url: /about/
+docs:
+  - title: Cheat Sheets
+    children:
+      - title: "awk"
+        url: /posts/awk
+  - title: dotfiles
+    children:
+      - title: ".bashrc"
+        url: /posts/.bashrc
